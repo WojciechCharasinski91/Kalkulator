@@ -9,7 +9,7 @@ public class Kalkulator {
     private JTextField textField;
     private String operator;
     private double num1, num2, result;
-    boolean dot = true;
+    private boolean dot = true;
 
 
     public Kalkulator() {
